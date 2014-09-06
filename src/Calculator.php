@@ -6,7 +6,7 @@
  * Time: 14:29
  */
 
-namespace Deanoj\TestProject1;
+namespace Deanoj\TravisMinimalProject;
 
 class Calculator {
 

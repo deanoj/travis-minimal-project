@@ -6,7 +6,7 @@
  * Time: 14:38
  */
 
-namespace Deanoj\TestProject1;
+namespace Deanoj\TravisMinimalProject;
 
 class CalculatorTest extends \PHPUnit_Framework_TestCase {
     public function testAdd()
