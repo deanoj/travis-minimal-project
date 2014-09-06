@@ -1,0 +1,22 @@
+{
+    "name": "deanoj/testproject1",
+    "description": "A test project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dean McGill",
+            "email": "deanoj@deanoj.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Deanoj\\TestProject1\\": "src/"
+        }
+    }
+}
