@@ -39,7 +39,7 @@ The PHP object, with a method to unit test.
 
 The PHPUnit test case. The is the test that we will run with travis-ci.
 
-{% hightlight php %}
+{% highlight php %}
     class CalculatorTest extends \PHPUnit_Framework_TestCase {
         public function testAdd()
         {
@@ -53,7 +53,7 @@ The PHPUnit test case. The is the test that we will run with travis-ci.
 
 ### 3. Travis-ci config - .travis.yml
 
-{% hightlight yaml %}
+{% highlight yaml %}
     language: php
     php:
       - "5.5"
