@@ -2,5 +2,11 @@
 composer.lock
 vendor
 
+# gem
+Gemfile.lock
+
 # IDE specific
 .idea
+
+# github pages
+_site
