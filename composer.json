@@ -1,6 +1,6 @@
 {
-    "name": "deanoj/testproject1",
-    "description": "A test project",
+    "name": "deanoj/travis-minimal-project",
+    "description": "A minimal project to demonstrate travis phpunit testing",
     "license": "MIT",
     "authors": [
         {
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Deanoj\\TestProject1\\": "src/"
+            "Deanoj\\TravisMinimalProject\\": "src/"
         }
     }
 }
